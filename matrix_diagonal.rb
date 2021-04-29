@@ -1,4 +1,7 @@
-# calculate the absolute difference between the sums of square matrix diagonals.
+
+# calculate the absolute difference 
+# between the sums of square matrix diagonals.
+
 require "readline"
 require "matrix"
 
